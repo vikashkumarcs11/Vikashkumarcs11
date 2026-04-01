@@ -83,7 +83,7 @@
 
 ## 📌 Featured Projects
 
-### 🛒 [Dehati E‑commerce Platform](https://github.com/vikashkumarcs11/Dehati-Project)
+### 🛒 [Dehati E‑commerce Platform](https://dehatimall.online/)
 - **Stack:** MERN (MongoDB, Express, React, Node.js) | TailwindCSS | Framer Motion
 - **Key Features:**
   - Full‑featured admin panel with product, order, and user management.
@@ -92,7 +92,7 @@
   - Responsive UI with modern animations (Framer Motion, GSAP).
 - **Focus:** Bridging the gap between local vendors and digital markets.
 
-### 🎓 [Anarya Open University Portal](https://github.com/vikashkumarcs11)
+### 🎓 [Anarya Open University Portal](https://www.anaryauniversity.online/)
 - **Stack:** React.js | GSAP | REST APIs
 - **Key Features:**
   - Multilingual UI (Hindi + English) to reach a wider audience.
@@ -100,7 +100,7 @@
   - Mobile‑first design with smooth page transitions.
 - **Impact:** Provides accessible education content for students in rural areas.
 
-### 📚 [Library Management System](https://github.com/vikashkumarcs11/GT-Library-Management)
+### 📚 [Library Management System](https://gt-library-management.vercel.app/login)
 - **Stack:** MERN | Redux Toolkit | Cloudinary
 - **Key Features:**
   - Complete CRUD operations for book inventory.
